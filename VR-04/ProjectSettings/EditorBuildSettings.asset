@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VR-Healthy-Game/VR-Healthy-Game/Scenes/BallGame.unity
+    guid: 7c35cad2846017e4da763c4d3b110ebd
+  - enabled: 1
+    path: Assets/VR-Healthy-Game/VR-Healthy-Game/Scenes/DrawGame.unity
+    guid: 6563bed1678d27645979a72aeddbbc40
+  - enabled: 1
+    path: Assets/VR-Healthy-Game/VR-Healthy-Game/Scenes/Lobby.unity
+    guid: 495d01c077b36ab49a11b308e992d23a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4ea20b814fa9cef449f86b0b69d9e3ed, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 86514445bff0833438cc0253f095da32, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 46cb4cf2e83688a41bcb1df5b929b1e9, type: 2}
